@@ -1,0 +1,111 @@
+{
+  "cart": [
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "Авторская иллюстрация",
+      "price": 100,
+      "color": "red",
+      "imageSrc": "zakat.png",
+      "brief": "Векторная графика для свободы творчества",
+      "description": [
+        {
+          "type": "image",
+          "imageSrc": "../zakat.png"
+        },
+        {
+          "type": "image",
+          "imageSrc": "../zakat2.png"
+        },
+        {
+          "type": "image",
+          "imageSrc": "../apple.png"
+        },
+        {
+          "type": "image",
+          "imageSrc": "../room.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Стикеры",
+      "color": "red",
+      "price": 123,
+      "imageSrc": "https://thisis.dog/wp-content/uploads/2019/05/Etsy-Scrapbooking-Stickers-Adorable-Corgi.jpg",
+      "brief": "Закажите любой стикерпак для своего мессенджера",
+      "description": [
+        {
+          "type": "image",
+          "imageSrc": "https://proprikol.ru/wp-content/uploads/2021/01/stikery-krasivye-kartinki-38.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://proprikol.ru/wp-content/uploads/2021/01/stikery-krasivye-kartinki-13.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://i.pinimg.com/originals/78/9e/0b/789e0bd6215c7067b84fa2eb931e2fe0.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://st.weblancer.net/download/4036285_935xp.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Иконки",
+      "color": "blue",
+      "price": 500,
+      "imageSrc": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4e181310577649.560e743a9c930.jpg",
+      "brief": "Иконки разнообразят любую вашу презентацию",
+      "description": [
+        {
+          "type": "image",
+          "imageSrc": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4e181310577649.560e743a9c930.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://cdn.pixabay.com/photo/2017/03/30/14/49/icons-2188729_1280.png"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://i.pinimg.com/originals/f2/3e/7a/f23e7acc7b725dd61db71d7f7426b936.png"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://i.ytimg.com/vi/SAEmtHznwrs/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Веб-дизайн",
+      "color": "black",
+      "price": 600,
+      "imageSrc": "https://i.pinimg.com/originals/96/29/fc/9629fc7b860ab7689d6474500eb1a9ef.png",
+      "brief": "Стильные иллюстрации для ваших сайтов и приложений",
+      "description": [
+        {
+          "type": "image",
+          "imageSrc": "https://mir-s3-cdn-cf.behance.net/project_modules/2800/2ddf3b123359009.60ed0a14b57db.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://mir-s3-cdn-cf.behance.net/projects/original/3cbe7a100773607.Y3JvcCwzMTk2LDI0OTksNzEsMA.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://cdn-front.kwork.ru/files/portfolio/t3/20/d0344dc097b655faa4a03d3aa3c067b959a59c24-1586721520.jpg"
+        },
+        {
+          "type": "image",
+          "imageSrc": "https://colary.ru/img/cases/case_4k/adapt.png"
+        }
+      ]
+    }
+  ],
+  "comments": []
+}
